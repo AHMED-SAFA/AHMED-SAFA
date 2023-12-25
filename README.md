@@ -1,5 +1,5 @@
 ### Hi 👋, 
-Ahmed Nur E Safa here
+## Ahmed Nur E Safa here,
 Skills: C++ / C / ANDROID STUDIO / FIREBASE / JAVA / PYHTON / FLUTTER /HTML / CSS 
 
 - 🔭 I’m currently working on APP DEVELOPMENT 
