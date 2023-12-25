@@ -1,7 +1,5 @@
 ### Hi 👋, 
 Ahmed Nur E Safa here
-#### I am GitHub Readme Generator's creator
-
 Skills: C++ / C / ANDROID STUDIO / FIREBASE / JAVA / PYHTON / FLUTTER /HTML / CSS 
 
 - 🔭 I’m currently working on APP DEVELOPMENT 
