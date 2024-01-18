@@ -1,5 +1,5 @@
-<h1 align="center">Assalamu Alaikum , I'm Safa</h1>
-<h3 align="center">A Leaner</h3>
+<h1 align="center">Hi 👋, I'm Safa</h1>
+<h3 align="center">A passionate Leaner from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-safa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-safa" /> </p>
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/ahmed nut e safa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed nut e safa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmed ne safa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed ne safa" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmed nur e safa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed nur e safa" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed ne safa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed ne safa" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079941048298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079941048298" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed__s_f_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed__s_f_" height="30" width="40" /></a>
 <a href="https://dribbble.com/ahmed safa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ahmed safa" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/the_alfa_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_alfa_14" height="30" width="40" /></a>
