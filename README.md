@@ -1,18 +1,18 @@
 
 <h1 align="center">Assalamu Alaikum !, I'm Safa</h1>
-<h3 align="center">A Leaner</h3>
+<h2 align="center">A Leaner</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-safa&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-safa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-safa" alt="ahmed-safa" /></a> </p>
 
-- 🔭 I’m currently working on **Software and Web**
+- 🔭 currently working on **Software and Web**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 currently learning **Data Science**
 
 - 💬 Ask me about **Android, Flutter**
 
-- 📫 How to reach me **ahmedsafa0759@gmail.com**
+- 📫 reach me **ahmedsafa0759@gmail.com**
 
 - ⚡ Fun fact **The population of Earth is about 8 billion people, but there are an estimated 10 quadrillion ants, meaning there are about 1.25 million ants for every human.**
 
