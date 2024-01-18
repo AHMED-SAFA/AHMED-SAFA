@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=<h1 align="center">Hi 👋, I'm Safa</h1>
-    <h3 align="center">A passionate Leaner from Bangladesh</h3>
+    <meta name="viewport" content="width=<h1 align="center">Assalamu Alaikum, I'm Safa</h1>
+    <h3 align="center">A Leaner</h3>
     
     <img alt="codes" align="right" width="400" src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
     
