@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum!, I'm Safa</h1>
-<h2 align="center">A Leaner</h2>
+<h2 align="center">A Learner</h2>
 
 [![](https://visitcount.itsvg.in/api?id=ahmed-safa&icon=9&color=5)](https://visitcount.itsvg.in)
 
