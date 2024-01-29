@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=ahmed-safa&icon=9&color=5)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-    - 🔭 currently working on **Software and Web**
+- 🔭 currently working on **Software and Web**
 
     - 🌱 currently learning **Data Science**
 
@@ -12,7 +12,7 @@
 
     - 📫 reach me **ahmedsafa0759@gmail.com**
 
-    - 🖥️ My portfolio **https://ahmed-safa.github.io/portfolio_SAFA/
+    - 🖥️ My portfolio **https://ahmed-safa.github.io/portfolio_SAFA/**
 
     - ⚡ Fun fact **The population of Earth is about 8 billion people, but there are an estimated 10 quadrillion ants,
     meaning there are about 1.25 million ants for every human.**
