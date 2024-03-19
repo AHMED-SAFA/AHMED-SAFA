@@ -1,5 +1,7 @@
-<h1 align="center">Assalamu Alaikum!, I'm Safa</h1>
-<h2 align="center">A Learner</h2>
+<div id="about-me" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=653B76&center=true&vCenter=true&random=false&width=435&lines=Assalamu+Alaikum!%2C+I'm+Safa;A+Learner%2C+A+programmer;An+Engineer%2C+A+developer" alt="Typing SVG" /></a>
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=ahmed-safa&icon=9&color=5)](https://visitcount.itsvg.in)
 
@@ -38,6 +40,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmed-safa&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 
