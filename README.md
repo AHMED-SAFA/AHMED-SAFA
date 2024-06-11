@@ -8,9 +8,9 @@
 # 💫 About Me:
 - 🔭 currently working on **Software and Web**
 
-    - 🌱 currently learning **Data Science**
+    - 🌱 currently learning **React Js** | **Python** | **Machine Learning** | **Ai**
 
-    - 💬 Ask me about **Android, Flutter**
+    - 💬 Ask me about **Android, Flutter, PHP, Laravel**
 
     - 📫 reach me **ahmedsafa0759@gmail.com**
 
