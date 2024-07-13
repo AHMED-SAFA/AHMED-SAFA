@@ -20,6 +20,18 @@
 
     - 🖥️ My portfolio **https://ahmed-safa.github.io/portfolio_SAFA/**
     
+## Connect:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmedsafa114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed nut e safa" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ahmednuresafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed nur e safa" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/the_alfa_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_alfa_14" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/SF___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sf__" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Ahmed_Nur_E_Safa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed nur e safa" height="30" width="40" /></a>
+</p>
+
+<br/>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079941048298&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahmed__s_f_?fbclid=IwAR2sMdf3Orvj15zshGxB-TQ29lQFf3NHX4flezwrJTwC8xyen-aGYhaM29s) 
