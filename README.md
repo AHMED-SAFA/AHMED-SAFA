@@ -7,19 +7,16 @@
 
 [![](https://visitcount.itsvg.in/api?id=ahmed-safa&icon=9&color=5)](https://visitcount.itsvg.in)
 
-# 🖥️ About Me:
-- 🔭 currently working on **Software and Web**
+<div align = "center">
 
-    - 🌱 currently learning **React Js** | **Python** | **Machine Learning** | **Ai**
-
-    - 💬 Ask me about **Android, Flutter, PHP, Laravel**
-
-    - 📫 reach me **ahmedsafa0759@gmail.com**
+Reach me at **ahmedsafa0759@gmail.com**
  
-    - ▶️ Linkedin **https://www.linkedin.com/in/ahmedsafa114/** 
+Linkedin **https://www.linkedin.com/in/ahmedsafa114/** 
 
-    - 🖥️ My portfolio **https://ahmed-safa.github.io/pro-portfolio/**
-    
+My portfolio **https://ahmed-safa.github.io/pro-portfolio/**
+
+</div>    
+
 ## Connect:
 
 <p align="center">
