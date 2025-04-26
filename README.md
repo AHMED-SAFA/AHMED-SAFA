@@ -1,7 +1,4 @@
-<h1 align="center">ASSALAMU ALAIKUM, I AM SAFA</h1>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C1599&center=true&vCenter=true&random=false&width=435&lines=An+Engineer%2C+A+Programmer;A+Learner%2C+A+Problem+Solver" alt="Typing SVG" /></a>
-</div>
+<h1 align="center">I AM SAFA</h1>
 
 <br/>
 
