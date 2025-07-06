@@ -1,6 +1,7 @@
-<h1 align="center">I AM SAFA</h1>
+<h1 align="center">Hi, I AM SAFA</h1>
 
-<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmed-safa&color=blue)
 
 [![](https://visitcount.itsvg.in/api?id=ahmed-safa&icon=9&color=5)](https://visitcount.itsvg.in)
 
@@ -106,7 +107,10 @@ My portfolio **https://ahmed-nur-e-safa.vercel.app/**
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=ahmed-safa&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
  
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-safa&theme=radical)
+
 </div>
 
 <div align="center">
